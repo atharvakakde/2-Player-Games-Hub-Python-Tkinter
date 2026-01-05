@@ -9,7 +9,7 @@ This project demonstrates **GUI development, game logic, and event-driven progra
 
 ## ✨ Features
 
-- Central **Game Hub Menu** for easy navigation  
+- Central **Game Hub Menu** for easy navigation
 - Multiple **2-player games** in a single application  
 - Turn-based gameplay with **live score tracking**  
 - Clean, colorful, and interactive user interface  
